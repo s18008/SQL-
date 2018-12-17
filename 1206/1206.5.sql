@@ -1,1 +1,1 @@
-select last_name||'earn'||salary from employees
+select last_name||' earn '||salary from employees;
